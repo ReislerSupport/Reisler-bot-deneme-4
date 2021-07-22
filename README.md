@@ -19,7 +19,7 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
+  <a href="https://github.com/ReislerSupport/Reisler-bot-deneme-4">
     <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
     
   </a>
@@ -46,7 +46,7 @@ Click the below button to watch the video tutorial on deploying
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
+$ git clone https://github.com/ReislerSupport/Reisler-bot-deneme-4
 $ cd VCsMusicBot
 # Upgrade sources
 # Install All Requirements 
