@@ -72,8 +72,8 @@ $ python3 -m VCsMusicBot
 ### Commands for Group 👥
 #### For all in group
 
-- `/oynat <song name>` - play song you requested
-- `/oynat <reply to audio>` - play replied file
+- `/play <song name>` - play song you requested
+- `/play <reply to audio>` - play replied file
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
 - `/ytplay <song name>`: Directly play song via YouTube Music
@@ -87,11 +87,11 @@ $ python3 -m VCsMusicBot
 
 ### Admins only 🏅
 - `/player` - open music player settings panel
-- `/dursur` - pause song play
-- `/devam` - resume song play
-- `/atla` - play next song
-- `/son` - stop music play
-- `/getir` - invite assistant to your chat
+- `/pause` - pause song play
+- `/resume` - resume song play
+- `/skip` - play next song
+- `/end` - stop music play
+- `/userbotjoin` - invite assistant to your chat
 - `/userbotleave` - remove assistant from your chat
 - `/reload` - Refresh admin list
 - `/musicplayer [on/off]` - Enable/Disable Music Player
