@@ -115,7 +115,7 @@ $ python3 -m VCsMusicBot
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@VCsMusicPlayer](https://t.me/VCsMusicPlayer) as Channel admin with full perms
+ 3. Add [@ReislerMuzikbot](https://t.me/ReislerMuzikBot) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
